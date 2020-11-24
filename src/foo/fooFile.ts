@@ -1,13 +1,12 @@
 
 import { fileName } from "..";
-
-
+import {fileName as fileName2} from "../bar"; 
 
 export const test = "test"; 
 
-
 const myData = {
-    data: fileName  // This resolves to undefined
+    data: fileName,  // This resolves to undefined, 
+    data2: fileName2 //This resolves to "bar"
 }; 
 
 
