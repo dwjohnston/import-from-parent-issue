@@ -1,5 +1,9 @@
 This repo demonstrates some behaviour around module imports from a parent `..` index file. 
 
+Stack Overflow question here: 
+
+https://stackoverflow.com/questions/64980541/why-do-relative-imports-from-a-parent-index-file-cause-asynchronous-module
+
 ## Instructions 
 
 1. Read the `src/foo/fooFile.ts` file. 
