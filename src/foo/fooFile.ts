@@ -1,6 +1,6 @@
-
 import { fileName } from "..";
-import {fileName as fileName2} from "../bar"; 
+
+
 
 export const test = "test"; 
 
